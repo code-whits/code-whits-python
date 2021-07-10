@@ -3,12 +3,12 @@
         {
             "name" : "Factorial",
             "source": "factorial.py",
-            "description": ""
+            "description": "Find the factorial of a number."
         },
         {
             "name" : "Sum",
             "source": "sum.py",
-            "description": ""
+            "description": "Find sum from 1 to that number."
         }
     ]
 }
