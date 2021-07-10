@@ -1,11 +1,11 @@
 {
     "functions" : [
-        "function": {
+        {
             "name" : "Factorial",
             "source": "factorial.py",
             "description": ""
         },
-        "function": {
+        {
             "name" : "Sum",
             "source": "sum.py",
             "description": ""
