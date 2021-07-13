@@ -1,6 +1,11 @@
 {
     "functions" : [
         {
+            "name" : "HEX to RGB",
+            "source": "hex_to_rgb.py",
+            "description": "Converts a hexadecimal color code to RGB components."
+        },
+        {
             "name" : "Factorial",
             "source": "factorial.py",
             "description": "Find the factorial of a number."
